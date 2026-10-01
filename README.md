@@ -82,13 +82,6 @@ Only if you want to use the DECTalk command.
 * `WEBSTER_KEY` is your API key for Merriam-Webster. You can get one [here](https://dictionaryapi.com/).
 * `XIAO_GITHUB_REPO_NAME` and `XIAO_GITHUB_REPO_USERNAME` are the name and username of the GitHub repo where Xiao lives. These are optional, and default to "xiao" and "xiaobotdev" respectively.
 
-### Encrypting `.env`
-
-> This step is recommended to protect your keys, but is not required.
-
-1. Run `npm i -g @dotenvx/dotenvx`.
-2. Run `dotenvx encrypt`.
-
 ### Run (Linux)
 
 > Install instructions below are for Linux. She should work on Windows, but I can't guarantee anything.
@@ -687,7 +680,6 @@ Total: 515
 ### NPM Packages
 * [@discordjs/opus](https://www.npmjs.com/package/@discordjs/opus)
 * [@discordjs/voice](https://www.npmjs.com/package/@discordjs/voice)
-* [@dotenvx/dotenvx](https://www.npmjs.com/package/@dotenvx/dotenvx)
 * [@mediapipe/face_detection](https://www.npmjs.com/package/@mediapipe/face_detection)
 * [@napi-rs/canvas](https://www.npmjs.com/package/@napi-rs/canvas)
 * [@skyra/gifenc](https://www.npmjs.com/package/@skyra/gifenc)
@@ -706,6 +698,7 @@ Total: 515
 * [custom-translate](https://www.npmjs.com/package/custom-translate)
 * [didyoumean2](https://www.npmjs.com/package/didyoumean2)
 * [discord.js](https://www.npmjs.com/package/discord.js)
+* [dotenv](https://www.npmjs.com/package/dotenv)
 * [emoji-regex](https://www.npmjs.com/package/emoji-regex)
 * [fen-validator](https://www.npmjs.com/package/fen-validator)
 * [font-finder](https://www.npmjs.com/package/font-finder)

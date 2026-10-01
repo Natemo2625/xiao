@@ -1,5 +1,5 @@
 const Command = require('../../framework/Command');
-const dotenv = require('@dotenvx/dotenvx');
+const dotenv = require('dotenv');
 
 module.exports = class UpdateEnvCommand extends Command {
 	constructor(client) {

@@ -1,4 +1,4 @@
-require('@dotenvx/dotenvx').config();
+require('dotenv').config();
 const { XIAO_TOKEN, OWNERS, XIAO_PREFIX, INVITE } = process.env;
 const { mkdir } = require('fs/promises');
 const path = require('path');

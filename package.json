@@ -31,7 +31,6 @@
 	"dependencies": {
 		"@discordjs/opus": "^0.10.0",
 		"@discordjs/voice": "^0.19.2",
-		"@dotenvx/dotenvx": "^2.19.1",
 		"@mediapipe/face_detection": "^0.4.1646425229",
 		"@napi-rs/canvas": "^1.0.10",
 		"@skyra/gifenc": "^1.0.1",
@@ -49,6 +48,7 @@
 		"custom-translate": "^2.2.9",
 		"didyoumean2": "^7.0.4",
 		"discord.js": "^14.27.0",
+		"dotenv": "^18.0.5",
 		"emoji-regex": "^10.6.0",
 		"fen-validator": "^2.0.1",
 		"font-finder": "^1.1.0",
