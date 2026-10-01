@@ -711,7 +711,6 @@ Total: 515
 * [font-finder](https://www.npmjs.com/package/font-finder)
 * [gm](https://www.npmjs.com/package/gm)
 * [html-entities](https://www.npmjs.com/package/html-entities)
-* [image-to-ascii](https://www.npmjs.com/package/image-to-ascii)
 * [ioredis](https://www.npmjs.com/package/ioredis)
 * [js-chess-engine](https://www.npmjs.com/package/js-chess-engine)
 * [jszip](https://www.npmjs.com/package/jszip)
