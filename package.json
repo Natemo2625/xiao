@@ -100,5 +100,15 @@
 		"eslint-config-amber": "^2.0.5",
 		"eslint-plugin-jsonc": "^2.21.1",
 		"globals": "^17.8.0"
+	},
+	"allowScripts": {
+		"@discordjs/opus": true,
+		"bufferutil": true,
+		"lwip2": true,
+		"sagiri": true,
+		"zlib-sync": true,
+		"utf-8-validate": true,
+		"core-js": true,
+		"@tensorflow/tfjs-node": true
 	}
 }
